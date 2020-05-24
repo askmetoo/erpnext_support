@@ -1,0 +1,3 @@
+erpnext_support.patches.create_custom_fields
+erpnext_support.patches.delete_property_setter_doc
+erpnext_support.patches.add_client_id
